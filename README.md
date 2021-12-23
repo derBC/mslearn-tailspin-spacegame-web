@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dreade/Space%20Game%20-%20web/_apis/build/status/derBC.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/dreade/Space%20Game%20-%20web/_build/latest?definitionId=13&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
